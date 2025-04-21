@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/a376f043997f4ebeab4c687d072f7518/artifacts
+end_time: 1745254960494
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: a376f043997f4ebeab4c687d072f7518
+run_name: learned-roo-251
+run_uuid: a376f043997f4ebeab4c687d072f7518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960483
+status: 3
+tags: []
+user_id: suhas

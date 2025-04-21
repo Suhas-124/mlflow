@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/e06bb445f0754879ba9b1c3292c6af50/artifacts
+end_time: 1745254960507
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: e06bb445f0754879ba9b1c3292c6af50
+run_name: aged-frog-492
+run_uuid: e06bb445f0754879ba9b1c3292c6af50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960496
+status: 3
+tags: []
+user_id: suhas

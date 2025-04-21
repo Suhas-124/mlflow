@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/6d44cc64de004d0fa3b98d0af6b07267/artifacts
+end_time: 1745254960548
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: 6d44cc64de004d0fa3b98d0af6b07267
+run_name: useful-swan-572
+run_uuid: 6d44cc64de004d0fa3b98d0af6b07267
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960537
+status: 3
+tags: []
+user_id: suhas

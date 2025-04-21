@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/ba45bed478494d9aa617a2592bccae8e/artifacts
+end_time: 1745254960414
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: ba45bed478494d9aa617a2592bccae8e
+run_name: illustrious-stork-4
+run_uuid: ba45bed478494d9aa617a2592bccae8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960402
+status: 3
+tags: []
+user_id: suhas

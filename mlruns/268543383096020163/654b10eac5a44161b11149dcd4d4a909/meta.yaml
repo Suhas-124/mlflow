@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/654b10eac5a44161b11149dcd4d4a909/artifacts
+end_time: 1745254960575
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: 654b10eac5a44161b11149dcd4d4a909
+run_name: resilient-crane-978
+run_uuid: 654b10eac5a44161b11149dcd4d4a909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960564
+status: 3
+tags: []
+user_id: suhas

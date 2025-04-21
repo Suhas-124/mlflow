@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/939b3b0807f54e73beed5f3f10f05564/artifacts
+end_time: 1745254960480
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: 939b3b0807f54e73beed5f3f10f05564
+run_name: mysterious-pug-459
+run_uuid: 939b3b0807f54e73beed5f3f10f05564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960467
+status: 3
+tags: []
+user_id: suhas

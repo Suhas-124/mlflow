@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/d7517470b1ca47bb8ced62b153e92043/artifacts
+end_time: 1745254967369
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: d7517470b1ca47bb8ced62b153e92043
+run_name: indecisive-goose-13
+run_uuid: d7517470b1ca47bb8ced62b153e92043
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254953607
+status: 3
+tags: []
+user_id: suhas

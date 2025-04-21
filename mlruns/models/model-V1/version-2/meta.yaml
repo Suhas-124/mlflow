@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745255579664
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1745255661200
+name: model-V1
+run_id: d7517470b1ca47bb8ced62b153e92043
+run_link: ''
+source: models:/model-V1/1
+status: READY
+status_message: null
+storage_location: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/d7517470b1ca47bb8ced62b153e92043/artifacts/random_forest
+user_id: null
+version: 2

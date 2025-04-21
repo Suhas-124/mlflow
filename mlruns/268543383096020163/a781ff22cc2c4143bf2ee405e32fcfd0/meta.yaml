@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/a781ff22cc2c4143bf2ee405e32fcfd0/artifacts
+end_time: 1745254960534
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: a781ff22cc2c4143bf2ee405e32fcfd0
+run_name: overjoyed-colt-212
+run_uuid: a781ff22cc2c4143bf2ee405e32fcfd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960523
+status: 3
+tags: []
+user_id: suhas

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/suhas/mlflow/mlflow/mlruns/268543383096020163/14943646703b46fcaffbe863fc8303d9/artifacts
+end_time: 1745254960448
+entry_point_name: ''
+experiment_id: '268543383096020163'
+lifecycle_stage: active
+run_id: 14943646703b46fcaffbe863fc8303d9
+run_name: casual-quail-8
+run_uuid: 14943646703b46fcaffbe863fc8303d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745254960433
+status: 3
+tags: []
+user_id: suhas
