@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b8649abdb0f84152a2bf8b0af9d6b723/artifacts
+end_time: 1745245148582
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b8649abdb0f84152a2bf8b0af9d6b723
+run_name: magnificent-bat-517
+run_uuid: b8649abdb0f84152a2bf8b0af9d6b723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745245148065
+status: 4
+tags: []
+user_id: suhas

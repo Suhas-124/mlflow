@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/702461307807707717/e26fc2ea7f6b48cf8f8e2a5e08a758e2/artifacts
+end_time: 1745253881061
+entry_point_name: ''
+experiment_id: '702461307807707717'
+lifecycle_stage: active
+run_id: e26fc2ea7f6b48cf8f8e2a5e08a758e2
+run_name: tasteful-kit-94
+run_uuid: e26fc2ea7f6b48cf8f8e2a5e08a758e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745253876141
+status: 3
+tags: []
+user_id: suhas

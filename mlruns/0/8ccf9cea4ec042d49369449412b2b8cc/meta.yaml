@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8ccf9cea4ec042d49369449412b2b8cc/artifacts
+end_time: 1745245450608
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ccf9cea4ec042d49369449412b2b8cc
+run_name: invincible-carp-529
+run_uuid: 8ccf9cea4ec042d49369449412b2b8cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745245450085
+status: 3
+tags: []
+user_id: suhas

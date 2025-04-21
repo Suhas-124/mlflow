@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9fd870c549b04e878ae2cfc139dd4049/artifacts
+end_time: 1745244142110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fd870c549b04e878ae2cfc139dd4049
+run_name: bouncy-turtle-718
+run_uuid: 9fd870c549b04e878ae2cfc139dd4049
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745244142081
+status: 3
+tags: []
+user_id: suhas
